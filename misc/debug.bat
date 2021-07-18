@@ -1,0 +1,1 @@
+call devenv build\%ProjectName%.exe code\%ProjectName%.cpp

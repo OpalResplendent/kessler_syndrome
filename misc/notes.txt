@@ -1,0 +1,31 @@
+/*
+	TODO:
+	Seperate worldspace and screenspace more?
+	Resizable Window (abstract output and gamespace better)
+	Software sound
+	Controller support
+
+	FIX:
+	respawning player // this doesn't feel right, autospawn? bullets?
+	Thruster Sound
+
+	Maybe:
+	trail effects
+	fast movement particles
+	Writing high score to file?
+	hyperspace
+	make kill_player function (kind of already a thing in explode player)
+	change position to int + float?
+	ant-aliased lines?
+	tail fin breaking off?
+	overbright effects
+
+	DONE:
+	make add_to_score function
+	move world instead of player?
+	ui
+	correct wraparound handlng!
+	death animation for player ship
+	death animation for ufo
+
+*/
